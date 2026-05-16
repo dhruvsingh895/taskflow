@@ -501,7 +501,7 @@ Passionate full-stack developer with expertise in modern web technologies. Speci
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
-**🚀 [Visit TaskFlow Live](https://taskflow-indol-six.vercel.app) | 📖 [Read the Docs](#) | 🐛 [Report Bug](https://github.com/Dhruvsingh895taskflow/issues)**
+**🚀 [Visit TaskFlow Live](https://taskflow-indol-six.vercel.app)**
 
 Made with ❤️ by [Dhruv singh](https://github.com/dhruvsingh895)
 
